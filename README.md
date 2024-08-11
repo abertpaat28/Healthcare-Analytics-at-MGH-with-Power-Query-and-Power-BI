@@ -2,10 +2,11 @@
 
 ---
 
-This simple project involved extensive data cleaning and transformation using Power Query and DAX to make the [dataset](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI/blob/main/Hospital%2BPatient%2BRecords.zip) usable.  
-Afterward, I loaded the cleaned data into Power BI to create the dashboard.
-
 <img width="1170" alt="mgh" src="https://github.com/user-attachments/assets/f9a78b23-604d-44f2-ada5-60b2e09d2613">
+
+This project involves extensive data cleaning and transformation using Power Query and DAX to make the [dataset](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI/blob/main/Hospital%2BPatient%2BRecords.zip) usable. Afterward, I loaded the cleaned data into Power BI to create the dashboard. 
+
+You may download the [dashboard](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI/blob/main/Healthcare%20Analytics%20at%20MGH%20with%20Power%20Query%20and%20Power%20BI.pbix) for a more in-depth exploration and interactive experience.
 
 ---
 ## 📘 Here’s a summary of the dashboard:  
@@ -37,7 +38,7 @@ Afterward, I loaded the cleaned data into Power BI to create the dashboard.
 
 ---
 ## 🩺 Encounters:  
-**BY YEAR (2011-2021):**  
+**BY YEAR (2011-2022):**  
 •	`Highest is 2014:` 3.9K admissions
 
 **BY CLASS:**  
