@@ -2,7 +2,7 @@
 
 ---
 
-This simple project involved extensive data cleaning and transformation using Power Query and DAX to make the dataset usable.  
+This simple project involved extensive data cleaning and transformation using Power Query and DAX to make the [dataset](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI/blob/main/Hospital%2BPatient%2BRecords.zip) usable.  
 Afterward, I loaded the cleaned data into Power BI to create the dashboard.
 
 <img width="1170" alt="mgh" src="https://github.com/user-attachments/assets/f9a78b23-604d-44f2-ada5-60b2e09d2613">
